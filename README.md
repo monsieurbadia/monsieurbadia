@@ -1,6 +1,6 @@
 ### <img src="./doc/preview/icon-hacker.svg"> Professional Summary
 
-> *« monsieurbadia has 5 years+ of experience programming stuff. He has knowledge of Javascript, browser APIs and modern frameworks. He like also compiler science, Rust. »*    
+> *« monsieurbadia has 5 years+ of experience programming stuff. He has knowledge of Javascript, browser APIs and modern frameworks. He like also compiler science and Rust. »*    
 
 <img src="./doc/preview/showreal-2019-compact.gif">
 
